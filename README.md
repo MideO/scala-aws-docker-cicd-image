@@ -4,6 +4,7 @@
 #### Includes: 
 
 * `wget`
+* `zip`
 * `python`
 * `python-pip`
 * `jdk.1.8`

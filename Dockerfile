@@ -2,7 +2,7 @@ FROM ubuntu:16.04
 
 RUN \
   apt-get -y update && \
-  apt-get -y install wget openjdk-8-jre openjdk-8-jdk apt-transport-https
+  apt-get -y install wget zip unzip openjdk-8-jre openjdk-8-jdk apt-transport-https
 
 RUN \
   wget http://www.scala-lang.org/files/archive/scala-2.11.11.deb && \

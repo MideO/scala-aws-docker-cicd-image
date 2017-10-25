@@ -20,6 +20,6 @@ RUN \
   apt-get -y install sbt && \
   rm -rf /var/lib/apt/lists/*
 
-RUN pip install awsebcli
+RUN pip install awscli awsebcli
 
 CMD ["bash"]

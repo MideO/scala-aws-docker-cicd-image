@@ -1,5 +1,5 @@
 ### scala-aws-docker-image
-#####[DockerHub Image](https://hub.docker.com/r/mideojikutu/scala-aws-docker-image/)
+##### [DockerHub Image](https://hub.docker.com/r/mideojikutu/scala-aws-docker-image/)
 
 #### Includes: 
 
